@@ -9,6 +9,11 @@ First, make a new virtual envornment with name `tf10`.
 python3 -m venv ~/tf10
 ```
 
+Often time,s you have to install different versions of Tensorflow on different virtual environments.
+So, it is a good idea to assign different names to virtual environments.
+I attach the minor version of Tensorflow (e.g. 10 for Tensorflow 1.10) to the name of the environment.
+
+
 Next, activate it 
 ```
 source ~/tf10/bin/activate
