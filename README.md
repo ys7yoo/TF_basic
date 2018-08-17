@@ -54,3 +54,5 @@ Collecting tensorflow
   Downloading https://files.pythonhosted.org/packages/9d/68/48b43857933875ae0a7a149d1e66dbdbef62a4a571da4c0c88c1311fdb5b/tensorflow-1.10.0-cp36-cp36m-macosx_10_11_x86_64.whl (55.5MB)
     8% |██▊                             | 4.8MB 173kB/s eta 0:04:53
 ```
+It will take quite a lot of time to install related packages.
+
